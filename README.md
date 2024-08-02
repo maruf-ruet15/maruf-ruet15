@@ -1,6 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Md. Maruf Hossain</h1>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<a href="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjagI6uktaHAxXJk1YBHaZQCTQQM3oECG8QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjagI6uktaHAxXJk1YBHaZQCTQQM3oECG8QAA" target="_blank">  
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated Programmer GIF" width="800" height="600">  
+</a>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
